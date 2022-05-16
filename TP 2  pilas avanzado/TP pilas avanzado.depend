@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1490112217 source:d:\mis documentos\escritorio\facultad 2022\labo y progra 1\02 - pilas\tp pilas avanzado\pila.c
+	"pila.h"
+
+1490112217 d:\mis documentos\escritorio\facultad 2022\labo y progra 1\02 - pilas\tp pilas avanzado\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1649441821 source:d:\mis documentos\escritorio\facultad 2022\labo y progra 1\02 - pilas\tp pilas avanzado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+	"pila.h"
+
