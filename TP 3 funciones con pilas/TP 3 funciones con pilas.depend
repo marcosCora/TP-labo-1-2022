@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1650545110 source:d:\mis documentos\escritorio\facultad 2022\labo y progra 1\03 - funciones y punteros\tp 3 funciones con pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	"pila.h"
+
+1650468390 d:\mis documentos\escritorio\facultad 2022\labo y progra 1\03 - funciones y punteros\tp 3 funciones con pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:d:\mis documentos\escritorio\facultad 2022\labo y progra 1\03 - funciones y punteros\tp 3 funciones con pilas\pila.c
+	"pila.h"
+
+1650636381 source:c:\users\kjer\desktop\marcos\facultad 2022\labo y progra 1\03 - funciones y punteros\tp 3 funciones con pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	"pila.h"
+
+1650636381 c:\users\kjer\desktop\marcos\facultad 2022\labo y progra 1\03 - funciones y punteros\tp 3 funciones con pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1650636381 source:c:\users\kjer\desktop\marcos\facultad 2022\labo y progra 1\03 - funciones y punteros\tp 3 funciones con pilas\pila.c
+	"pila.h"
+
