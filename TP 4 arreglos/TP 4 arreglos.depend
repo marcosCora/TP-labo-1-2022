@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1650907039 source:d:\mis documentos\escritorio\facultad 2022\labo y progra 1\05- arreglos\tp 4 arreglos\pila.c
+	"pila.h"
+
+1650907039 d:\mis documentos\escritorio\facultad 2022\labo y progra 1\05- arreglos\tp 4 arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1652137884 source:d:\mis documentos\escritorio\facultad 2022\labo y progra 1\05- arreglos\tp 4 arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	"pila.h"
+
