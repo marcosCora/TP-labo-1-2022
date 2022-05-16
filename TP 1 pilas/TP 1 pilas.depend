@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1490112217 source:d:\mis documentos\escritorio\facultad 2022\labo y progra 1\unidad 1 introduccion a la programacion estructurada\tp 1 pilas\pila.c
+	"pila.h"
+
+1490112217 d:\mis documentos\escritorio\facultad 2022\labo y progra 1\unidad 1 introduccion a la programacion estructurada\tp 1 pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1649345501 source:d:\mis documentos\escritorio\facultad 2022\labo y progra 1\unidad 1 introduccion a la programacion estructurada\tp 1 pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	"pila.h"
+
