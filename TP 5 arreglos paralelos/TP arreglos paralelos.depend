@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1653346577 source:d:\mis documentos\escritorio\facultad 2022\labo y progra 1\05- arreglos\tp arreglos paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
