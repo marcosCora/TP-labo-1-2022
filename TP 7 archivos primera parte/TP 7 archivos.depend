@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653746409 source:c:\users\kjer\desktop\marcos\facultad 2022\labo y progra 1\tp 7 archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
